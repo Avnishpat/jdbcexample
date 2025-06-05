@@ -1,1 +1,2 @@
 no sql content
+test table name is ${{TABLE_NAME1}}
